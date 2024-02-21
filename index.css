@@ -10,7 +10,7 @@ body{
     height: 370px;
     margin: auto;
     display: flex; /* Use flexbox for layout */
-    align-items: center; /* Align items vertically in the center */
+    align-items: center; 
     justify-content: space-around; /* Add space around items */
 }
 
@@ -26,7 +26,7 @@ body{
     position: relative;
     top: 20px;   
     line-height: 30px;
-    font-weight: 1000;  /* Adjust padding as needed */
+    font-weight: 1000;  
 }
 
 p{
@@ -41,8 +41,8 @@ p{
 
 .search-box {
     position: relative;
-    margin-left: 50px; /* Position the input box under the h3 and p */
-    top: 10px; /* Position it right below the h3 and p */
+    margin-left: 50px;
+    top: 10px; 
     border: 2px solid #282828;
     width: 190px;
     height: 25px;
@@ -75,7 +75,7 @@ p{
 }
 
 img {
-    width: 350px; /* Ensure the image stays within its container */
+    width: 350px; 
     height: 350px;
 }
 
